@@ -72,5 +72,5 @@ Es contribuir a proyectos que generen un impacto positivo, utilizando tecnologí
 ¡Estoy siempre abierto a nuevas oportunidades y colaboraciones! Conéctate conmigo:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/bryansuarez1989/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/Oconner27)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/bryansuarezdev)  
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:Pronto)
