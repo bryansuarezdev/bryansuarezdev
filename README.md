@@ -5,9 +5,7 @@
 </p>
 
 ## 🚀 Sobre mí
-Soy un **Desarrollador Full-Stack** apasionado por crear experiencias digitales modernas, dinámicas y de alto rendimiento. Me enfoco en el diseño de interfaces de usuario accesibles y en la arquitectura de sistemas escalables.
-
-Mi objetivo es transformar ideas complejas en soluciones web fluidas, priorizando siempre la **UX** y la **excelencia técnica**.
+Soy un **Desarrollador Full-Stack** apasionado por crear experiencias digitales modernas, dinámicas y de alto rendimiento. Mi enfoque combina la potencia de **Next.js** y **React** con la escalabilidad de **Supabase**.
 
 ---
 
@@ -16,20 +14,27 @@ Mi objetivo es transformar ideas complejas en soluciones web fluidas, priorizand
 ### **Frontend & Frameworks**
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
 </p>
 
 ### **Backend & Database**
 <p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+</p>
+
+### **Herramientas**
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 ---
@@ -56,7 +61,7 @@ Mi objetivo es transformar ideas complejas en soluciones web fluidas, priorizand
 
 ---
 
-##  Conectemos
+## 📬 Conectemos
 ¡Siempre estoy listo para nuevos desafíos y colaboraciones!
 
 <p align="left">
