@@ -1,11 +1,11 @@
 # 👋 ¡Hola! Soy Bryan Suárez
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=008080&center=true&vCenter=true&width=435&lines=Front-End+Developer;Especializándome+en+Full-Stack;Apasionado+por+el+Diseño+UX" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=008080&center=true&vCenter=true&width=500&lines=Front-End+Developer;Especializ%C3%A1ndome+en+Full-Stack;IA+Assisted+Developer" alt="Typing SVG" />
 </p>
 
 ## 🚀 Sobre mí
-Soy un **Desarrollador Front-End** en constante evolución, actualmente **especializándome en el stack Full-Stack**. Me apasiona crear interfaces de usuario impecables con **React** y **Next.js**, mientras construyo arquitecturas robustas en el backend.
+Soy un **Desarrollador Front-End** en constante evolución, actualmente **especializándome en el stack Full-Stack**. Mi enfoque no solo es escribir código, sino resolver problemas reales utilizando las herramientas más avanzadas de la industria.
 
 ---
 
@@ -29,19 +29,22 @@ Soy un **Desarrollador Front-End** en constante evolución, actualmente **especi
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </p>
 
-### **E-commerce & CMS**
+### **IA & Adaptabilidad**
 <p align="left">
-  <img src="https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white" />
+  <img src="https://img.shields.io/badge/IA_Assisted_Coding-FF69B4?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-00A67E?style=for-the-badge&logo=chatgpt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Continuous_Learning-FFD700?style=for-the-badge&logo=lighthouse&logoColor=black" />
 </p>
 
-### **DevOps & Cloud Tools**
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
+---
+
+## 🧠 Mentalidad & Evolución
+
+Creo firmemente que la programación está cambiando y que los desarrolladores debemos ser **arquitectos de soluciones potenciados por IA**. 
+
+- 🤖 **IA Driven Development**: Integro herramientas de inteligencia artificial para acelerar el ciclo de desarrollo y garantizar la calidad del código.
+- 📈 **Evolución Constante**: No me ato a una tecnología; me adapto al progreso del software, aprendiendo rápidamente nuevos lenguajes y herramientas.
+- 🎯 **Foco en el Valor**: Programar es un medio; el fin es crear productos que funcionen perfectamente y que la gente ame usar.
 
 ---
 
@@ -58,15 +61,6 @@ Soy un **Desarrollador Front-End** en constante evolución, actualmente **especi
 
 ---
 
-## 📊 Estadísticas de Actividad
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bryansuarezdev&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryansuarezdev&layout=compact&theme=radical" alt="Top Langs" />
-</p>
-
----
-
 ## 📬 Conectemos
 ¡Siempre estoy listo para nuevos desafíos y colaboraciones!
 
@@ -80,4 +74,11 @@ Soy un **Desarrollador Front-End** en constante evolución, actualmente **especi
   <a href="https://www.instagram.com/bryanrsuarezb/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Simplicity and elegance are unpopular because they require hard work and discipline to achieve and education to be appreciated."</i><br>
+  <b>- Edsger W. Dijkstra</b>
 </p>
