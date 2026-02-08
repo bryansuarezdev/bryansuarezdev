@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Bryan Suárez
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=008080&height=220&section=header&text=FullStack%20Developer&fontSize=70&animation=fadeIn&fontAlignY=38" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=008080&height=200&section=header&text=FullStack%20Developer&fontSize=70&animation=fadeIn&fontAlignY=38" width="100%" />
 </p>
 
 ## 🚀 Sobre mí
@@ -41,8 +41,7 @@ Mi objetivo es transformar ideas complejas en soluciones web fluidas, priorizand
 | Proyecto | Descripción | Tech | Link |
 | :--- | :--- | :--- | :--- |
 | **SportWeather** | App de recomendaciones deportivas basadas en el clima con RLS de Supabase. | React, TS, Supabase | [Ver Repo](https://github.com/bryansuarezdev/sportweather) |
-| **GameRush** | Plataforma interactiva para gamers con estética futurista. | React, Tailwind | [Ver Repo](https://github.com/bryansuarezdev/GameRush) |
-| **Bank Modern App** | Aplicación bancaria moderna con diseño premium. | React, Vite | [Ver Repo](https://github.com/bryansuarezdev/bank_modern-app) |
+| **Bank Modern App** | Aplicación bancaria moderna con diseño premium y dashboard financiero. | React, Vite | [Ver Repo](https://github.com/bryansuarezdev/bank-modern-app) |
 
 </div>
 
@@ -51,25 +50,17 @@ Mi objetivo es transformar ideas complejas en soluciones web fluidas, priorizand
 ## 📊 Estadísticas de Actividad
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bryansuarezdev&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryansuarezdev&layout=compact&theme=tokyonight&hide_progress=true" alt="Top Langs" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bryansuarezdev&show_icons=true&theme=teal&count_private=true" alt="GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryansuarezdev&layout=compact&theme=teal&hide_progress=true" alt="Top Langs" height="180px" />
 </p>
 
 ---
 
-## ✨ Valores y Enfoque
-- 💡 **Innovación:** Transformar conceptos en productos listos para producción.
-- 📐 **Calidad de Código:** Adherencia estricta a principios **SOLID**, **DRY** y **Clean Code**.
-- 🤝 **Colaboración:** Valorando el trabajo en equipo y el intercambio de conocimientos.
-- 🌐 **Inclusión:** Interfaces diseñadas bajo estándares de accesibilidad (WCAG).
-
----
-
-## 📬 Conectemos
+##  Conectemos
 ¡Siempre estoy listo para nuevos desafíos y colaboraciones!
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/bryansuarez1989/" target="_blank">
+  <a href="https://www.linkedin.com/in/bryan-suarez-8440301a2" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/bryansuarezdev" target="_blank">
@@ -81,5 +72,5 @@ Mi objetivo es transformar ideas complejas en soluciones web fluidas, priorizand
 </p>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=teal" />
 </p>
