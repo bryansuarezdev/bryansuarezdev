@@ -1,76 +1,85 @@
 # 👋 ¡Hola! Soy Bryan Suárez
 
-🚀 **Desarrollador Front-End Junior** apasionado por crear experiencias digitales modernas, dinámicas y funcionales.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=008080&height=220&section=header&text=FullStack%20Developer&fontSize=70&animation=fadeIn&fontAlignY=38" width="100%" />
+</p>
 
-🎨 Me especializo en diseñar y desarrollar **interfaces de usuario accesibles y responsivas**, enfocándome en **mejorar la experiencia del usuario (UX)** y en la **optimización de rendimiento**.
+## 🚀 Sobre mí
+Soy un **Desarrollador Full-Stack** apasionado por crear experiencias digitales modernas, dinámicas y de alto rendimiento. Me enfoco en el diseño de interfaces de usuario accesibles y en la arquitectura de sistemas escalables.
 
----
-
-## 🛠️ Tecnologías Clave
-
-### Lenguajes y Frameworks:
-
-[![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5)](https://html.spec.whatwg.org/) 
-[![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3)](https://www.w3.org/TR/css3-roadmap/) 
-[![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
-[![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript)](https://www.typescriptlang.org/)  
-[![React](https://img.shields.io/badge/React-blue?logo=react)](https://reactjs.org/) 
-[![Angular](https://img.shields.io/badge/Angular-red?logo=angular)](https://angular.io/) 
-[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-blue?logo=tailwindcss)](https://tailwindcss.com/) 
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?logo=bootstrap)](https://getbootstrap.com/)  
-
-### Herramientas y Ecosistema:
-
-[![Git](https://img.shields.io/badge/Git-orange?logo=git)](https://git-scm.com/) 
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/) 
-[![Webpack](https://img.shields.io/badge/Webpack-blue?logo=webpack)](https://webpack.js.org/) 
-[![Vite](https://img.shields.io/badge/Vite-purple?logo=vite)](https://vitejs.dev/) 
-[![Figma](https://img.shields.io/badge/Figma-black?logo=figma)](https://www.figma.com/)
-
-### Exploración Actual:
-
-[![APIs RESTful](https://img.shields.io/badge/APIs%20RESTful-blue?logo=api)](https://restfulapi.net/)  
-[![Laravel](https://img.shields.io/badge/Laravel-red?logo=laravel)](https://laravel.com/)  
-[![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql)](https://www.mysql.com/)  
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql)](https://www.postgresql.org/)  
-[![Python](https://img.shields.io/badge/Python-blue?logo=python)](https://www.python.org/)  
+Mi objetivo es transformar ideas complejas en soluciones web fluidas, priorizando siempre la **UX** y la **excelencia técnica**.
 
 ---
 
-## 📁 Portafolio
+## 🛠️ Mi Stack Tecnológico
 
-### 🚧 EN CONSTRUCCIÓN 🚧
-### **Muy pronto compartiré mis proyectos aquí**
+### **Frontend & Frameworks**
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+</p>
 
-![Obra en construcción](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)
-
----
-
-## 🎯 Mi Enfoque
-
-💡 **Innovación:** Transformar ideas en soluciones web escalables y sostenibles.  
-📈 **Crecimiento Continuo:** Aprender y aplicar las mejores prácticas para el desarrollo ágil.  
-🤝 **Colaboración:** Trabajar en equipo para lograr objetivos comunes y superar desafíos técnicos.
-
----
-
-## ✨ Valores Clave
-
-- **Calidad de Código:** Modularidad, DRY, SOLID, y buenas prácticas en cada línea.
-- **Accesibilidad:** Diseñar experiencias inclusivas para todos los usuarios.
-- **Escalabilidad:** Crear aplicaciones que crezcan junto con las necesidades del proyecto.
+### **Backend & Database**
+<p align="left">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
 ---
 
-## 🎯 Mi visión como desarrollador 
-Es contribuir a proyectos que generen un impacto positivo, utilizando tecnologías de vanguardia y enfoques creativos. Siempre estoy dispuesto a colaborar en iniciativas innovadoras y asumir nuevos desafíos en el desarrollo web.
+## 📁 Proyectos Destacados
+
+<div align="center">
+
+| Proyecto | Descripción | Tech | Link |
+| :--- | :--- | :--- | :--- |
+| **SportWeather** | App de recomendaciones deportivas basadas en el clima con RLS de Supabase. | React, TS, Supabase | [Ver Repo](https://github.com/bryansuarezdev/sportweather) |
+| **GameRush** | Plataforma interactiva para gamers con estética futurista. | React, Tailwind | [Ver Repo](https://github.com/bryansuarezdev/GameRush) |
+| **Bank Modern App** | Aplicación bancaria moderna con diseño premium. | React, Vite | [Ver Repo](https://github.com/bryansuarezdev/bank_modern-app) |
+
+</div>
 
 ---
 
-## 📬 Contáctame
+## 📊 Estadísticas de Actividad
 
-¡Estoy siempre abierto a nuevas oportunidades y colaboraciones! Conéctate conmigo:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bryansuarezdev&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryansuarezdev&layout=compact&theme=tokyonight&hide_progress=true" alt="Top Langs" height="180px" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/bryansuarez1989/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/bryansuarezdev)  
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:Pronto)
+---
+
+## ✨ Valores y Enfoque
+- 💡 **Innovación:** Transformar conceptos en productos listos para producción.
+- 📐 **Calidad de Código:** Adherencia estricta a principios **SOLID**, **DRY** y **Clean Code**.
+- 🤝 **Colaboración:** Valorando el trabajo en equipo y el intercambio de conocimientos.
+- 🌐 **Inclusión:** Interfaces diseñadas bajo estándares de accesibilidad (WCAG).
+
+---
+
+## 📬 Conectemos
+¡Siempre estoy listo para nuevos desafíos y colaboraciones!
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/bryansuarez1989/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/bryansuarezdev" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/bryanrsuarezb/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
