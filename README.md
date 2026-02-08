@@ -53,7 +53,14 @@ Soy un **Desarrollador Front-End** en constante evolución, actualmente **especi
   <img src="https://img.shields.io/badge/SOLID_Principles-008080?style=flat-square" />
   <img src="https://img.shields.io/badge/Clean_Code-008080?style=flat-square" />
   <img src="https://img.shields.io/badge/Pattern_Design-008080?style=flat-square" />
+  <img src="https://img.shields.io/badge/Dry_%26_Kiss-008080?style=flat-square" />
 </p>
+
+- 📐 **Arquitecturas Limpias**: Especialista en diseñar estructuras de carpetas modulares, escalables y desacopladas.
+- 🧱 **Fundamentos de Software**: Dominio profundo de Patrones de Diseño, Estructuras de Datos y Algoritmos para un código eficiente.
+- ⚙️ **Escalabilidad & Optimización**: Enfoque en crear sistemas de alto rendimiento preparados para el crecimiento y alta demanda.
+- 🧹 **Clean Code & Estándares**: Aplicación rigurosa de principios SOLID, DRY y KISS para un mantenimiento sin fricciones.
+
 
 ---
 
