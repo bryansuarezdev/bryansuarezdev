@@ -1,11 +1,11 @@
 # 👋 ¡Hola! Soy Bryan Suárez
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=008080&center=true&vCenter=true&width=500&lines=Front-End+Developer;Especializ%C3%A1ndome+en+Full-Stack;IA+Assisted+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=008080&center=true&vCenter=true&width=550&lines=Front-End+Developer;Especializ%C3%A1ndome+en+Full-Stack;IA+Assisted+Developer;UX+%2F+UI+Design+Enthusiast" alt="Typing SVG" />
 </p>
 
 ## 🚀 Sobre mí
-Soy un **Desarrollador Front-End** en constante evolución, actualmente **especializándome en el stack Full-Stack**. Mi enfoque no solo es escribir código, sino diseñar **soluciones escalables, robustas y mantenibles** utilizando los estándares más altos de la ingeniería de software.
+Soy un **Desarrollador Front-End** en constante evolución, actualmente **especializándome en el stack Full-Stack**. Mi enfoque combina la potencia de **Next.js** y **React** con arquitecturas escalables, diseño de impacto y el uso estratégico de la **Inteligencia Artificial**.
 
 ---
 
@@ -29,9 +29,15 @@ Soy un **Desarrollador Front-End** en constante evolución, actualmente **especi
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </p>
 
-### **E-commerce, DevOps & Cloud**
+### **Diseño & E-commerce**
 <p align="left">
   <img src="https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+</p>
+
+### **DevOps & Cloud**
+<p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -47,13 +53,14 @@ Soy un **Desarrollador Front-End** en constante evolución, actualmente **especi
   <img src="https://img.shields.io/badge/SOLID_Principles-008080?style=flat-square" />
   <img src="https://img.shields.io/badge/Clean_Code-008080?style=flat-square" />
   <img src="https://img.shields.io/badge/Pattern_Design-008080?style=flat-square" />
-  <img src="https://img.shields.io/badge/DRY_%26_KISS-008080?style=flat-square" />
 </p>
 
-- 📐 **Arquitecturas Limpias**: Implementando estructuras de carpetas modulares y desacopladas.
-- � **Fundamentos de Software**: Dominio de Patrones de Diseño y estructuras de datos.
-- ⚙️ **Escalabilidad**: Optimización de rendimiento y diseño de sistemas preparados para crecer.
-- 🤖 **IA Driven Development**: Aprovechando la Inteligencia Artificial para potenciar la productividad y la calidad del código.
+---
+
+## 🤖 IA & Adaptabilidad
+- 🤖 **IA Assisted Development**: Integración de herramientas de IA para maximizar la productividad y calidad.
+- 📉 **Prompt Engineering**: Optimización de flujos de trabajo mediante comunicación efectiva con modelos de lenguaje.
+- 📈 **Continuous Learning**: Adaptación rápida al progreso tecnológico y nuevas herramientas del ecosistema.
 
 ---
 
@@ -63,8 +70,8 @@ Soy un **Desarrollador Front-End** en constante evolución, actualmente **especi
 
 | Proyecto | Descripción | Tech | Link |
 | :--- | :--- | :--- | :--- |
-| **SportWeather** | App con RLS, optimización de caché y limpieza automática de memoria. | React, TS, Supabase | [Ver Repo](https://github.com/bryansuarezdev/sportweather) |
-| **Bank Modern App** | Dashboard financiero complejo con enfoque en Clean Architecture. | React, Vite | [Ver Repo](https://github.com/bryansuarezdev/bank-modern-app) |
+| **SportWeather** | App con RLS, optimización de caché y limpieza de memoria. | React, TS, Supabase | [Ver Repo](https://github.com/bryansuarezdev/sportweather) |
+| **Bank Modern App** | Dashboard financiero complejo con enfoque en UX Premium. | React, Vite | [Ver Repo](https://github.com/bryansuarezdev/bank-modern-app) |
 
 </div>
 
