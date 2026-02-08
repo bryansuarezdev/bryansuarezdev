@@ -5,7 +5,7 @@
 </p>
 
 ## 🚀 Sobre mí
-Soy un **Desarrollador Front-End** en constante evolución, actualmente **especializándome en el stack Full-Stack**. Mi enfoque no solo es escribir código, sino resolver problemas reales utilizando las herramientas más avanzadas de la industria.
+Soy un **Desarrollador Front-End** en constante evolución, actualmente **especializándome en el stack Full-Stack**. Mi enfoque no solo es escribir código, sino diseñar **soluciones escalables, robustas y mantenibles** utilizando los estándares más altos de la ingeniería de software.
 
 ---
 
@@ -29,22 +29,31 @@ Soy un **Desarrollador Front-End** en constante evolución, actualmente **especi
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </p>
 
-### **IA & Adaptabilidad**
+### **E-commerce, DevOps & Cloud**
 <p align="left">
-  <img src="https://img.shields.io/badge/IA_Assisted_Coding-FF69B4?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-00A67E?style=for-the-badge&logo=chatgpt&logoColor=white" />
-  <img src="https://img.shields.io/badge/Continuous_Learning-FFD700?style=for-the-badge&logo=lighthouse&logoColor=black" />
+  <img src="https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
-## 🧠 Mentalidad & Evolución
+## 🏛️ Ingeniería & Arquitectura
+*Construyendo software para el futuro, no solo para el presente.*
 
-Creo firmemente que la programación está cambiando y que los desarrolladores debemos ser **arquitectos de soluciones potenciados por IA**. 
+<p align="left">
+  <img src="https://img.shields.io/badge/Clean_Architecture-008080?style=flat-square" />
+  <img src="https://img.shields.io/badge/SOLID_Principles-008080?style=flat-square" />
+  <img src="https://img.shields.io/badge/Clean_Code-008080?style=flat-square" />
+  <img src="https://img.shields.io/badge/Pattern_Design-008080?style=flat-square" />
+  <img src="https://img.shields.io/badge/DRY_%26_KISS-008080?style=flat-square" />
+</p>
 
-- 🤖 **IA Driven Development**: Integro herramientas de inteligencia artificial para acelerar el ciclo de desarrollo y garantizar la calidad del código.
-- 📈 **Evolución Constante**: No me ato a una tecnología; me adapto al progreso del software, aprendiendo rápidamente nuevos lenguajes y herramientas.
-- 🎯 **Foco en el Valor**: Programar es un medio; el fin es crear productos que funcionen perfectamente y que la gente ame usar.
+- 📐 **Arquitecturas Limpias**: Implementando estructuras de carpetas modulares y desacopladas.
+- � **Fundamentos de Software**: Dominio de Patrones de Diseño y estructuras de datos.
+- ⚙️ **Escalabilidad**: Optimización de rendimiento y diseño de sistemas preparados para crecer.
+- 🤖 **IA Driven Development**: Aprovechando la Inteligencia Artificial para potenciar la productividad y la calidad del código.
 
 ---
 
@@ -54,8 +63,8 @@ Creo firmemente que la programación está cambiando y que los desarrolladores d
 
 | Proyecto | Descripción | Tech | Link |
 | :--- | :--- | :--- | :--- |
-| **SportWeather** | App de recomendaciones deportivas basadas en el clima con RLS de Supabase. | React, TS, Supabase | [Ver Repo](https://github.com/bryansuarezdev/sportweather) |
-| **Bank Modern App** | Aplicación bancaria moderna con diseño premium y dashboard financiero. | React, Vite | [Ver Repo](https://github.com/bryansuarezdev/bank-modern-app) |
+| **SportWeather** | App con RLS, optimización de caché y limpieza automática de memoria. | React, TS, Supabase | [Ver Repo](https://github.com/bryansuarezdev/sportweather) |
+| **Bank Modern App** | Dashboard financiero complejo con enfoque en Clean Architecture. | React, Vite | [Ver Repo](https://github.com/bryansuarezdev/bank-modern-app) |
 
 </div>
 
