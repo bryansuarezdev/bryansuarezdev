@@ -1,11 +1,11 @@
 # 👋 ¡Hola! Soy Bryan Suárez
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=008080&height=200&section=header&text=FullStack%20Developer&fontSize=70&animation=fadeIn&fontAlignY=38" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=008080&center=true&vCenter=true&width=435&lines=Front-End+Developer;Especializándome+en+Full-Stack;Apasionado+por+el+Diseño+UX" alt="Typing SVG" />
 </p>
 
 ## 🚀 Sobre mí
-Soy un **Desarrollador Full-Stack** apasionado por crear experiencias digitales modernas, dinámicas y de alto rendimiento. Mi enfoque combina la potencia de **Next.js** y **React** con arquitecturas escalables y modernas.
+Soy un **Desarrollador Front-End** en constante evolución, actualmente **especializándome en el stack Full-Stack**. Me apasiona crear interfaces de usuario impecables con **React** y **Next.js**, mientras construyo arquitecturas robustas en el backend.
 
 ---
 
@@ -18,7 +18,6 @@ Soy un **Desarrollador Full-Stack** apasionado por crear experiencias digitales 
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
 </p>
 
@@ -28,6 +27,11 @@ Soy un **Desarrollador Full-Stack** apasionado por crear experiencias digitales 
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+</p>
+
+### **E-commerce & CMS**
+<p align="left">
+  <img src="https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white" />
 </p>
 
 ### **DevOps & Cloud Tools**
@@ -57,8 +61,8 @@ Soy un **Desarrollador Full-Stack** apasionado por crear experiencias digitales 
 ## 📊 Estadísticas de Actividad
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bryansuarezdev&show_icons=true&theme=teal&count_private=true" alt="GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryansuarezdev&layout=compact&theme=teal&hide_progress=true" alt="Top Langs" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bryansuarezdev&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryansuarezdev&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
 ---
@@ -76,8 +80,4 @@ Soy un **Desarrollador Full-Stack** apasionado por crear experiencias digitales 
   <a href="https://www.instagram.com/bryanrsuarezb/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=teal" />
 </p>
