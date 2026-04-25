@@ -1,6 +1,7 @@
 # 👋 ¡Hola! Soy Bryan Suárez
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=008080&center=true&vCenter=true&width=800&lines=E-commerce+Developer+%26+Digital+Operations+Specialist;Front-End+%E2%86%92+Full-Stack+en+formaci%C3%B3n;Desarrollo+web+%2B+Reputaci%C3%B3n+online;Construyendo+experiencias+digitales+modernas)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=008080&center=true&vCenter=true&width=800&lines=
+E-commerce+Developer+%26+Digital+Operations+Specialist;Front-End+%E2%86%92+Full-Stack+en+formaci%C3%B3n;Desarrollo+web+%2B+Reputaci%C3%B3n+online;Construyendo+experiencias+digitales+modernas)](https://git.io/typing-svg)
 
 ### E-commerce Developer & Digital Operations Specialist
 
@@ -13,7 +14,7 @@ expandiendo mi base sólida en React/Next.js hacia el dominio integral de aplica
 
 ---
 
-## 🛠️ Stack actual
+## 🛠️ Stack técnico
 
 **Frontend & Frameworks**
 
@@ -21,7 +22,10 @@ expandiendo mi base sólida en React/Next.js hacia el dominio integral de aplica
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 **Herramientas**
@@ -33,9 +37,25 @@ expandiendo mi base sólida en React/Next.js hacia el dominio integral de aplica
 **En aprendizaje activo**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-0096D6?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+## 🌐 Community & Reputation Management
+
+![Google Business](https://img.shields.io/badge/Google_Business-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Marketplaces](https://img.shields.io/badge/Marketplace_Operations-FF6900?style=for-the-badge&logo=shopify&logoColor=white)
+![Social Media](https://img.shields.io/badge/Social_Media-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+![Content Management](https://img.shields.io/badge/Content_Management-008080?style=for-the-badge&logo=wordpress&logoColor=white)
+![Customer Engagement](https://img.shields.io/badge/Customer_Engagement-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+
+Gestión integral de presencia digital y reputación online en marketplaces, perfiles 
+multi-local de Google Business y redes sociales. Foco en desescalado de feedback negativo, 
+análisis de causas raíz y construcción de percepción positiva en nichos sensibles.
 
 ---
 
