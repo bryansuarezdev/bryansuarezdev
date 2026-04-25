@@ -1,107 +1,83 @@
 # 👋 ¡Hola! Soy Bryan Suárez
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=008080&center=true&vCenter=true&width=800&lines=Desarrollador+Front-End;Especializ%C3%A1ndome+en+Full-Stack;Desarrollo+Asistido+por+IA;Entusiasta+del+Dise%C3%B1o+UX+%2F+UI" alt="Typing SVG" />
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=008080&center=true&vCenter=true&width=800&lines=E-commerce+Developer+%26+Digital+Operations+Specialist;Front-End+%E2%86%92+Full-Stack+en+formaci%C3%B3n;Desarrollo+web+%2B+Reputaci%C3%B3n+online;Construyendo+experiencias+digitales+modernas)](https://git.io/typing-svg)
 
-## 🚀 Sobre mí
-Soy un **Desarrollador Front-End** en constante evolución, actualmente **especializándome en el stack Full-Stack**. Mi enfoque combina la potencia de **Next.js** y **React** con arquitecturas escalables, diseño de impacto y el uso estratégico de la **Inteligencia Artificial**.
+### E-commerce Developer & Digital Operations Specialist
 
----
+Desarrollador web con un perfil dual: combino el desarrollo de plataformas e-commerce 
+modernas con la gestión de operaciones digitales y reputación online de marcas con 
+presencia nacional. Mi camino profesional avanza desde Front-End hacia Full-Stack, 
+expandiendo mi base sólida en React/Next.js hacia el dominio integral de aplicaciones web.
 
-## 🛠️ Mi Stack Tecnológico
-
-### **Frontend y Frameworks**
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-</p>
-
-### **Backend y Bases de Datos**
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-</p>
-
-### **Diseño y E-commerce**
-<p align="left">
-  <img src="https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-</p>
-
-### **DevOps y Nube**
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
+📍 Coquimbo, Chile · Disponible para trabajo remoto, project-based o híbrido en LATAM
 
 ---
 
-## 🏛️ Ingeniería y Arquitectura
-*Construyendo software para el futuro, no solo para el presente.*
+## 🛠️ Stack actual
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Arquitectura_Limpia-008080?style=flat-square" />
-  <img src="https://img.shields.io/badge/Principios_SOLID-008080?style=flat-square" />
-  <img src="https://img.shields.io/badge/Código_Limpio-008080?style=flat-square" />
-  <img src="https://img.shields.io/badge/Patrones_de_Diseño-008080?style=flat-square" />
-  <img src="https://img.shields.io/badge/DRY_y_KISS-008080?style=flat-square" />
-</p>
+**Frontend & Frameworks**
 
-- 📐 **Arquitecturas Limpias**: Especialista en diseñar estructuras de carpetas modulares, escalables y desacopladas.
-- 🧱 **Fundamentos de Software**: Dominio profundo de Patrones de Diseño, Estructuras de Datos y Algoritmos para un código eficiente.
-- ⚙️ **Escalabilidad y Optimización**: Enfoque en crear sistemas de alto rendimiento preparados para el crecimiento y alta demanda.
-- 🧹 **Clean Code y Estándares**: Aplicación rigurosa de principios SOLID, DRY y KISS para un mantenimiento sin fricciones.
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+**Herramientas**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+**En aprendizaje activo**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
-## 🤖 IA y Adaptabilidad
-- 🤖 **Desarrollo Asistido por IA**: Integración de herramientas de IA para maximizar la productividad y calidad.
-- 📉 **Ingeniería de Prompts**: Optimización de flujos de trabajo mediante comunicación efectiva con modelos de lenguaje.
-- 📈 **Aprendizaje Continuo**: Adaptación rápida al progreso tecnológico y nuevas herramientas del ecosistema.
+## 🎯 En qué trabajo hoy
+
+Actualmente desarrollo el e-commerce y gestiono las operaciones digitales de **Perro Loco**, 
+cadena nacional chilena de Pet Shops con 12 sucursales:
+
+- 💻 **Desarrollo web** del e-commerce con React, Next.js y TypeScript.
+- 🌐 **Gestión de reputación online** en perfiles de Google Business multi-local, 
+  redes sociales propias y marketplaces.
+- ⚙️ **Automatización** de procesos operativos mediante software propio que aborda 
+  causas raíz detrás de quejas recurrentes.
+- 📦 **Operaciones en marketplaces**: gestión de stock, catálogos y resolución de 
+  inconsistencias entre sistemas.
 
 ---
 
-## 📁 Proyectos Destacados
+## 🧱 Cómo me gusta construir
 
-<div align="center">
+- Aplicar principios de **código limpio** (DRY, SOLID, KISS) en cada proyecto.
+- Diseñar **arquitecturas modulares** que crezcan con las necesidades del producto.
+- Integrar herramientas de **IA** estratégicamente para acelerar la productividad.
+- Documentar el proceso para que el código sea mantenible por mí o por otros.
 
-| Proyecto | Descripción | Tecnología | Enlace |
-| :--- | :--- | :--- | :--- |
-| **SportWeather** | App con RLS, optimización de caché y limpieza de memoria. | React, TS, Supabase | [Ver Repo](https://github.com/bryansuarezdev/sportweather) |
-| **Bank Modern App** | Dashboard financiero complejo con enfoque en Diseño UX Premium. | React, Vite | [Ver Repo](https://github.com/bryansuarezdev/bank-modern-app) |
+---
 
-</div>
+## 📁 Proyectos destacados
+
+| Proyecto | Descripción | Stack | Repositorio |
+|----------|-------------|-------|-------------|
+| **SportWeather** | App de clima orientada a actividades deportivas, con autenticación, RLS y manejo optimizado de caché. | React, TypeScript, Supabase | [Ver repo](https://github.com/bryansuarezdev/sportweather) |
+| **Bank Modern App** | Landing page moderna de banco fintech con enfoque en diseño UX premium y arquitectura de componentes. | React, Vite | [Ver repo](https://github.com/bryansuarezdev/bank-modern-app) |
 
 ---
 
 ## 📬 Conectemos
-¡Siempre estoy listo para nuevos desafíos y colaboraciones!
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/bryan-suarez-8440301a2" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/bryansuarezdev" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/bryanrsuarezb/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryansuarez1989/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bryan.end.dev@gmail.com)
 
 ---
 
-<p align="center">
-  <i>"Simplicity and elegance are unpopular because they require hard work and discipline to achieve and education to be appreciated."</i><br>
-  <b>- Edsger W. Dijkstra</b>
-</p>
+> *"Simplicity and elegance are unpopular because they require hard work and discipline 
+> to achieve and education to be appreciated."* — **Edsger W. Dijkstra**
