@@ -1,7 +1,6 @@
 # 👋 ¡Hola! Soy Bryan Suárez
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=008080&center=true&vCenter=true&width=800&lines=
-E-commerce+Developer+%26+Digital+Operations+Specialist;Front-End+%E2%86%92+Full-Stack+en+formaci%C3%B3n;Desarrollo+web+%2B+Reputaci%C3%B3n+online;Construyendo+experiencias+digitales+modernas)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=008080&center=true&vCenter=true&width=800&lines=E-commerce+Developer+%26+Digital+Operations+Specialist;Front-End+%E2%86%92+Full-Stack+en+formaci%C3%B3n;Desarrollo+web+%2B+Reputaci%C3%B3n+online;Construyendo+experiencias+digitales+modernas)](https://git.io/typing-svg)
 
 ### E-commerce Developer & Digital Operations Specialist
 
