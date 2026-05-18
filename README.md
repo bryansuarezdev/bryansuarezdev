@@ -84,10 +84,24 @@ cadena nacional chilena de Pet Shops con 12 sucursales:
 
 ## 📁 Proyectos destacados
 
-| Proyecto | Descripción | Stack | Repositorio |
-|----------|-------------|-------|-------------|
-| **SportWeather** | App de clima orientada a actividades deportivas, con autenticación, RLS y manejo optimizado de caché. | React, TypeScript, Supabase | [Ver repo](https://github.com/bryansuarezdev/sportweather) |
-| **Bank Modern App** | Landing page moderna de banco fintech con enfoque en diseño UX premium y arquitectura de componentes. | React, Vite | [Ver repo](https://github.com/bryansuarezdev/bank-modern-app) |
+| Proyecto | Descripción | Stack | Repositorio / Demo |
+| :--- | :--- | :--- | :--- |
+| 🌦️ **SportWeather** | App de clima orientada a actividades deportivas, con autenticación, RLS y manejo optimizado de caché. | React, TypeScript, Supabase | [Repo](https://github.com/bryansuarezdev/sportweather) · [Demo](https://sportweather.vercel.app) |
+| 🔄 **StockSync** | Herramienta de sincronización de inventario multi-sucursal en tiempo real entre la API de Bsale y PedidosYa. | Node.js, JavaScript, ExcelJS | [Repo](https://github.com/bryansuarezdev/stocksync) |
+| 📲 **QR Registro App** | Web App completa para registro y validación de clientes por medio de códigos QR, integrada con Bsale API y Google Sheets (vía Google Apps Script). | Next.js (App Router), TypeScript, TailwindCSS | *Repositorio Privado* |
+| 🏦 **Bank Modern App** | Landing page moderna de banco fintech con enfoque en diseño UX premium y arquitectura de componentes. | React, Vite | [Repo](https://github.com/bryansuarezdev/bank-modern-app) · [Demo](https://bank-modern-app-ashen.vercel.app) |
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bryansuarezdev&show_icons=true&theme=tokyonight&locale=es&border_radius=8" alt="Estadísticas de GitHub de Bryan" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryansuarezdev&layout=compact&theme=tokyonight&locale=es&border_radius=8&langs_count=6" alt="Lenguajes más usados" height="150" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bryansuarezdev&theme=tokyonight&border_radius=8" alt="Racha de contribuciones" height="150" />
+</p>
 
 ---
 
