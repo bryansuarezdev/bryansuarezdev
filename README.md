@@ -84,12 +84,12 @@ cadena nacional chilena de Pet Shops con 12 sucursales:
 
 ## 📁 Proyectos destacados
 
-| Proyecto | Descripción | Stack | Repositorio / Demo |
+| Proyecto | Descripción | Stack | Enlaces |
 | :--- | :--- | :--- | :--- |
-| 🌦️ **SportWeather** | App de clima orientada a actividades deportivas, con autenticación, RLS y manejo optimizado de caché. | React, TypeScript, Supabase | [Repo](https://github.com/bryansuarezdev/sportweather) · [Demo](https://sportweather.vercel.app) |
-| 🔄 **StockSync** | Herramienta de sincronización de inventario multi-sucursal en tiempo real entre la API de Bsale y PedidosYa. | Node.js, JavaScript, ExcelJS | [Repo](https://github.com/bryansuarezdev/stocksync) |
-| 📲 **QR Registro App** | Web App completa para registro y validación de clientes por medio de códigos QR, integrada con Bsale API y Google Sheets (vía Google Apps Script). | Next.js (App Router), TypeScript, TailwindCSS | *Repositorio Privado* |
-| 🏦 **Bank Modern App** | Landing page moderna de banco fintech con enfoque en diseño UX premium y arquitectura de componentes. | React, Vite | [Repo](https://github.com/bryansuarezdev/bank-modern-app) · [Demo](https://bank-modern-app-ashen.vercel.app) |
+| 🌦️ **SportWeather** | App de clima orientada a actividades deportivas, con autenticación, RLS y manejo optimizado de caché. | React, TypeScript, Supabase | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/bryansuarezdev/sportweather) [![Demo](https://img.shields.io/badge/Demo-008080?style=flat-square&logo=vercel&logoColor=white)](https://sportweather.vercel.app) |
+| 🔄 **StockSync** | Herramienta de sincronización de inventario multi-sucursal en tiempo real entre la API de Bsale y PedidosYa. | Node.js, JavaScript, ExcelJS | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/bryansuarezdev/stocksync) [![Demo](https://img.shields.io/badge/Demo-008080?style=flat-square&logo=github&logoColor=white)](https://bryansuarezdev.github.io/stocksync/) |
+| 📲 **QR Registro App** | Web App completa para registro y validación de clientes por medio de códigos QR, integrada con Bsale API y Google Sheets (vía Google Apps Script). | Next.js (App Router), TypeScript, TailwindCSS | [![Código Privado](https://img.shields.io/badge/Código_Privado-orange?style=flat-square&logo=github&logoColor=white)](#) [![Demo](https://img.shields.io/badge/Demo-008080?style=flat-square&logo=vercel&logoColor=white)](https://qrregistro-perroloco.vercel.app/) |
+| 🏦 **Bank Modern App** | Landing page moderna de banco fintech con enfoque en diseño UX premium y arquitectura de componentes. | React, Vite | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/bryansuarezdev/bank-modern-app) [![Demo](https://img.shields.io/badge/Demo-008080?style=flat-square&logo=vercel&logoColor=white)](https://bank-modern-app-ashen.vercel.app) |
 
 ---
 
