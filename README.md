@@ -96,11 +96,11 @@ cadena nacional chilena de Pet Shops con 12 sucursales:
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bryansuarezdev&show_icons=true&theme=tokyonight&locale=es&border_radius=8" alt="Estadísticas de GitHub de Bryan" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryansuarezdev&layout=compact&theme=tokyonight&locale=es&border_radius=8&langs_count=6" alt="Lenguajes más usados" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bryansuarezdev&theme=tokyonight" alt="Detalles de perfil de GitHub de Bryan" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bryansuarezdev&theme=tokyonight" alt="Repositorios por lenguaje" height="160" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bryansuarezdev&theme=tokyonight&border_radius=8" alt="Racha de contribuciones" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bryansuarezdev&theme=tokyonight&border_radius=8" alt="Racha de contribuciones" height="160" />
 </p>
 
 ---
