@@ -1,13 +1,14 @@
 # 👋 ¡Hola! Soy Bryan Suárez
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=008080&center=true&vCenter=true&width=900&lines=E-commerce+Developer+%7C+Digital+Operations;Front-End+%E2%86%92+Full-Stack+en+formaci%C3%B3n;Desarrollo+web+%2B+Reputaci%C3%B3n+online;React+%C2%B7+Next.js+%C2%B7+TypeScript)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=008080&center=true&vCenter=true&width=900&lines=Full-Stack+Developer+%7C+Digital+Operations;React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+Supabase;Integraciones+de+APIs+%2B+automatizaci%C3%B3n;Desarrollo+asistido+por+IA+%2B+Spec-Driven+Development)](https://git.io/typing-svg)
 
-### E-commerce Developer & Digital Operations Specialist
+### Full-Stack Developer & Digital Operations Specialist
 
-Desarrollador web con un perfil dual: combino el desarrollo de plataformas e-commerce 
-modernas con la gestión de operaciones digitales y reputación online de marcas con 
-presencia nacional. Mi camino profesional avanza desde Front-End hacia Full-Stack, 
-expandiendo mi base sólida en React/Next.js hacia el dominio integral de aplicaciones web.
+Desarrollador full-stack con un perfil dual: combino el desarrollo de plataformas e-commerce 
+e integraciones a medida con la gestión de operaciones digitales y reputación online de marcas 
+con presencia nacional. Construyo desde el front-end (React/Next.js) hasta el backend 
+(Node.js, APIs REST, bases de datos), con foco en integraciones entre sistemas 
+(Bsale, Shopify, Mercado Libre, PedidosYa) que resuelven problemas operativos reales.
 
 📍 Coquimbo, Chile · Disponible para trabajo remoto, project-based o híbrido en LATAM
 
@@ -27,13 +28,7 @@ expandiendo mi base sólida en React/Next.js hacia el dominio integral de aplica
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-**Herramientas**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-**En aprendizaje activo**
+**Backend & Datos**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_APIs-0096D6?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -41,6 +36,29 @@ expandiendo mi base sólida en React/Next.js hacia el dominio integral de aplica
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Herramientas**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 🤖 Desarrollo asistido por IA
+
+Integro agentes de IA en mi flujo de desarrollo real, no solo como autocompletado:
+
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex_CLI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Spec--Driven Development](https://img.shields.io/badge/Spec--Driven_Development-008080?style=for-the-badge)
+
+- 📐 **Spec-Driven Development**: defino especificaciones y contratos antes de implementar, 
+  para que los agentes generen código alineado con la arquitectura del proyecto.
+- 🤝 **Flujos agénticos**: uso Claude Code y Codex para research, planificación e 
+  implementación en proyectos reales (ver `StockSync_v2`, `comprobador_facturas`, `mercadostock`).
+- 🔍 **Revisión humana siempre**: la IA acelera la escritura, las decisiones de arquitectura 
+  y la validación del código las hago yo.
 
 ---
 
@@ -87,9 +105,13 @@ cadena nacional chilena de Pet Shops con 12 sucursales:
 | Proyecto | Descripción | Stack | Enlaces |
 | :--- | :--- | :--- | :--- |
 | 🌦️ **SportWeather** | App de clima orientada a actividades deportivas, con autenticación, RLS y manejo optimizado de caché. | React, TypeScript, Supabase | <a href="https://github.com/bryansuarezdev/sportweather" target="_blank"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white" alt="Repo" /></a> <a href="https://sportweather.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Demo-008080?style=flat-square&logo=vercel&logoColor=white" alt="Demo" /></a> |
-| 🔄 **StockSync** | Herramienta de sincronización de inventario multi-sucursal en tiempo real entre la API de Bsale y PedidosYa. | Node.js, JavaScript, ExcelJS | <a href="https://github.com/bryansuarezdev/stocksync" target="_blank"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white" alt="Repo" /></a> <a href="https://bryansuarezdev.github.io/stocksync/" target="_blank"><img src="https://img.shields.io/badge/Demo-008080?style=flat-square&logo=github&logoColor=white" alt="Demo" /></a> |
 | 📲 **QR Registro App** | Web App completa para registro y validación de clientes por medio de códigos QR, integrada con Bsale API y Google Sheets (vía Google Apps Script). | Next.js (App Router), TypeScript, TailwindCSS | <img src="https://img.shields.io/badge/Código_Privado-orange?style=flat-square&logo=github&logoColor=white" alt="Código Privado" /> <a href="https://qrregistro-perroloco.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Demo-008080?style=flat-square&logo=vercel&logoColor=white" alt="Demo" /></a> |
 | 🏦 **Bank Modern App** | Landing page moderna de banco fintech con enfoque en diseño UX premium y arquitectura de componentes. | React, Vite | <a href="https://github.com/bryansuarezdev/bank-modern-app" target="_blank"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white" alt="Repo" /></a> <a href="https://bank-modern-app-ashen.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Demo-008080?style=flat-square&logo=vercel&logoColor=white" alt="Demo" /></a> |
+| 🔄 **StockSync v2** 🚧 | Integración en tiempo real entre Bsale y PedidosYa para sincronizar stock multi-sucursal (evolución de mi StockSync original). *En construcción.* | Next.js, TypeScript, Supabase | <img src="https://img.shields.io/badge/Código_Privado-orange?style=flat-square&logo=github&logoColor=white" alt="Código Privado" /> <img src="https://img.shields.io/badge/En_construcción-yellow?style=flat-square" alt="En construcción" /> |
+| 📦 **Mercadostock** 🚧 | Integración vía API para sincronizar stock en tiempo real, compatible con multi-bodega de Mercado Libre y multi-sucursal en Bsale (CRM/ERP). *En construcción.* | Node.js, API REST | <img src="https://img.shields.io/badge/Código_Privado-orange?style=flat-square&logo=github&logoColor=white" alt="Código Privado" /> <img src="https://img.shields.io/badge/En_construcción-yellow?style=flat-square" alt="En construcción" /> |
+| 🧾 **Panel de Auditoría de Facturas** | App interna que usa IA para extraer datos de facturas de proveedor y cruzarlos automáticamente contra Bsale, mostrando un semáforo de coincidencias por producto. | Next.js, TypeScript, IA (extracción de documentos) | <img src="https://img.shields.io/badge/Código_Privado-orange?style=flat-square&logo=github&logoColor=white" alt="Código Privado" /> |
+| 🐾 **Shopify Perro Loco** | Migración e integración de un ecommerce a Shopify: theming en Liquid y automatización vía Shopify Admin GraphQL API. | Shopify (Liquid), GraphQL, Python | <img src="https://img.shields.io/badge/Código_Privado-orange?style=flat-square&logo=github&logoColor=white" alt="Código Privado" /> |
+| 🖨️ **Impresor Automático (Monitor)** | Automatiza la descarga e impresión de documentos (etiquetas, boletas, despachos) desde Google Drive, compilado como ejecutable de escritorio. | Python, PyInstaller | <img src="https://img.shields.io/badge/Código_Privado-orange?style=flat-square&logo=github&logoColor=white" alt="Código Privado" /> |
 
 ---
 
