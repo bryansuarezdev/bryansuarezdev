@@ -37,28 +37,39 @@ con presencia nacional. Construyo desde el front-end (React/Next.js) hasta el ba
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Herramientas**
+**Herramientas & Automatización**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-## 🤖 Desarrollo asistido por IA
+## 🤖 Desarrollo asistido por IA & Automatización
 
-Integro agentes de IA en mi flujo de desarrollo real, no solo como autocompletado:
+Integro agentes de IA y flujos de automatización en el ciclo de desarrollo y operaciones:
 
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex_CLI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Antigravity CLI](https://img.shields.io/badge/Antigravity_CLI_(AGY)-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![OpenCode](https://img.shields.io/badge/OpenCode-10B981?style=for-the-badge)
+![Pi Agent](https://img.shields.io/badge/Pi_Agent_(pi.dev)-7C3AED?style=for-the-badge)
+![Hermes Agent](https://img.shields.io/badge/Hermes_Agent-FF6B6B?style=for-the-badge)
+![Grok Bot](https://img.shields.io/badge/Grok_Bot-000000?style=for-the-badge&logo=x&logoColor=white)
+![OpenClaw](https://img.shields.io/badge/OpenClaw-0EA5E9?style=for-the-badge)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Spec--Driven Development](https://img.shields.io/badge/Spec--Driven_Development-008080?style=for-the-badge)
 
 - 📐 **Spec-Driven Development**: defino especificaciones y contratos antes de implementar, 
   para que los agentes generen código alineado con la arquitectura del proyecto.
-- 🤝 **Flujos agénticos**: uso Claude Code, Codex y Antigravity CLI (agy) para research, planificación e 
-  implementación en proyectos reales (ver `StockSync_v2`, `comprobador_facturas`, `mercadostock`).
-- 🔍 **Revisión humana siempre**: la IA acelera la escritura, las decisiones de arquitectura 
+- 🤝 **Flujos agénticos**: orquesto herramientas como Claude Code, Codex, Antigravity CLI (agy), OpenCode, 
+  Pi Agent (pi.dev), Hermes Agent, Grok Bot y OpenClaw para research, planificación e implementación en proyectos reales.
+- ⚡ **Automatización empresarial con n8n**: diseño e implementación de flujos automatizados para maximizar la 
+  rapidez operativa, conectar servicios y reducir tareas manuales en la empresa.
+- 👥 **Capacitación interna**: entrenamiento y acompañamiento al equipo de la empresa para adoptar, 
+  comprender y operar agentes de IA de forma segura y productiva.
+- 🔍 **Revisión humana siempre**: la IA acelera la escritura y los procesos, las decisiones de arquitectura 
   y la validación del código las hago yo.
 
 ---
@@ -87,6 +98,7 @@ cadena nacional chilena de Pet Shops con 12 sucursales:
   redes sociales propias y marketplaces.
 - ⚙️ **Automatización** de procesos operativos mediante software propio que aborda 
   causas raíz detrás de quejas recurrentes.
+- 🤖 **Adopción de IA & n8n**: implementación de agentes autónomos y flujos de automatización, capacitando internamente al equipo para multiplicar la velocidad y productividad operativa.
 - 📦 **Operaciones en marketplaces**: gestión de stock, catálogos y resolución de 
   inconsistencias entre sistemas.
 
